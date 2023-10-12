@@ -10,7 +10,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   International Conference on Computational Science and Its Applications
 
 ### 2021
-  - **The 2018 Brazilian presidential run-off: a complex network analysis approach using Twitter data** (---)  
+  - **The 2018 Brazilian presidential run-off: a complex network analysis approach using Twitter data** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2021_JCIS.pdf?raw=true))  
   JEC Cruz, MG Quiles  
   Journal of Computational Interdisciplinary Sciences
 
