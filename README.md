@@ -19,6 +19,13 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   JEC Cruz, EH Shiguemori, LNF Guimarães  
   Journal of Computational Interdisciplinary Sciences
 
+### 2013
+  - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** (---)  
+  JEC Cruz, EH Shiguemori, LNF Guimarães  
+  BRICS Congress on Computational Intelligence
+
+
+
 ## Other publications
 
 ## Datasets
