@@ -4,9 +4,10 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 ## Papers
 
 ### 2023
-- [file]() Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation
-    JEC Cruz, MT Kayano, AJP Calheiros, SR Garcia, MG Quiles
-    International Conference on Computational Science and Its Applications, 422-439
+- [pdf]() **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation**
+
+JEC Cruz, MT Kayano, AJP Calheiros, SR Garcia, MG Quiles
+International Conference on Computational Science and Its Applications, 422-439
 
 ## Other publications
 
