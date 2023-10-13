@@ -15,7 +15,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   Journal of Computational Interdisciplinary Sciences
 
 ### 2015 
-  - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([pdf](https://epacis.net/jcis/PDF_JCIS/JCIS11-art.0101.pdf))([dataset]())  
+  - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2015_JCIS.pdf?raw=true))([pdf](https://epacis.net/jcis/PDF_JCIS/JCIS11-art.0101.pdf))([dataset]())  
   JEC Cruz, EH Shiguemori, LNF Guimarães  
   Journal of Computational Interdisciplinary Sciences
 
