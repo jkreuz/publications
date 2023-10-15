@@ -1,4 +1,4 @@
-# JC
+# JEC Cruz
 Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Complex Networks among other subjects. 
 
 ## Papers
