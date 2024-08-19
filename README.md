@@ -6,7 +6,8 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 
 ### 2024
   - **The 2018 Brazilian presidential run-off: a complex network analysis approach using Twitter data** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2024_ICCSA.pdf?raw=true))  
-  JEC Cruz, MG Quiles  
+  JEC Cruz, MG Quiles
+  International Conference on Computational Science and Its Applications
 
 ### 2023
 - **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2023_ICCSA.pdf?raw=true))([dataset]())  
