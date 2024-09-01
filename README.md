@@ -10,7 +10,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   International Conference on Computational Science and Its Applications
 
 ### 2023
-- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2023_ICCSA.pdf?raw=true))([dataset]())  
+- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2023_ICCSA.pdf?raw=true))([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv?raw=true))  
   JEC Cruz, MT Kayano, AJP Calheiros, SR Garcia, MG Quiles  
   International Conference on Computational Science and Its Applications
 
@@ -30,5 +30,5 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 
 ## Datasets
 
-- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset]())  
+- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv?raw=true))  
 - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([dataset]())  
