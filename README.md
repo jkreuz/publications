@@ -15,12 +15,12 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   International Conference on Computational Science and Its Applications
 
 ### 2015 
-  - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2015_JCIS.pdf?raw=true))([pdf](https://epacis.net/jcis/PDF_JCIS/JCIS11-art.0101.pdf))([dataset]())  
+  - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/JCruz2015_JCIS.pdf?raw=true))([pdf](https://epacis.net/jcis/PDF_JCIS/JCIS11-art.0101.pdf))([dataset](https://zenodo.org/records/13892183))  
   JEC Cruz, EH Shiguemori, LNF Guimarães  
   Journal of Computational Interdisciplinary Sciences
 
 ### 2013
-  - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([pdf](http://plutao.sid.inpe.br/col/sid.inpe.br/plutao/2013/12.12.17.25.22/doc/Cruz_concrete.pdf))  
+  - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([pdf](http://plutao.sid.inpe.br/col/sid.inpe.br/plutao/2013/12.12.17.25.22/doc/Cruz_concrete.pdf))([dataset](https://zenodo.org/records/13892183))  
   JEC Cruz, EH Shiguemori, LNF Guimarães  
   BRICS Congress on Computational Intelligence
 
@@ -31,4 +31,5 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 ## Datasets
 
 - **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv))  
-- **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([dataset]())  
+- **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([dataset](https://zenodo.org/records/13892183))  
+- **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([dataset](https://zenodo.org/records/13892183))  
