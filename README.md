@@ -20,7 +20,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
   Journal of Computational Interdisciplinary Sciences
 
 ### 2013
-  - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([pdf](http://plutao.sid.inpe.br/col/sid.inpe.br/plutao/2013/12.12.17.25.22/doc/Cruz_concrete.pdf))([dataset](https://zenodo.org/records/13892183))  
+  - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([pdf](http://plutao.sid.inpe.br/col/sid.inpe.br/plutao/2013/12.12.17.25.22/doc/Cruz_concrete.pdf))([pdf](https://ieeexplore.ieee.org/abstract/document/6855892))([dataset](https://zenodo.org/records/13892183))  
   JEC Cruz, EH Shiguemori, LNF Guimarães  
   BRICS Congress on Computational Intelligence
 
