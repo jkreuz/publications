@@ -5,7 +5,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 <!-- Google Scholar Crawler info https://scholar.google.com/intl/en/scholar/inclusion.html -->
 
 ### 2024
-  - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/BSantos2024_ENIAC.pdf?raw=true))([pdf]())([dataset]())   
+  - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/BSantos2024_ENIAC.pdf?raw=true))([pdf]())([dataset](https://zenodo.org/records/14653134))   
   BLG dos Santos, AC Lorena, JEC Cruz  
   Encontro Nacional de Inteligência Artificial e Computacional
 
@@ -34,7 +34,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 
 ## Datasets
 
-- **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification** ([dataset]())  
+- **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification** ([dataset](https://zenodo.org/records/14653134))  
 - **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv))  
 - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([dataset](https://zenodo.org/records/13892183))  
 - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([dataset](https://zenodo.org/records/13892183))  
