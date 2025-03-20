@@ -5,7 +5,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 <!-- Google Scholar Crawler info https://scholar.google.com/intl/en/scholar/inclusion.html -->
 
 ### 2024
-  - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification in CBIR** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/BSantos2024_ENIAC.pdf?raw=true))([pdf]())([dataset](https://zenodo.org/records/14653134))   
+  - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification in CBIR** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/BSantos2024_ENIAC.pdf?raw=true))([pdf](https://doi.org/10.5753/eniac.2024.245117))([dataset](https://zenodo.org/records/14653134))   
   BLG dos Santos, AC Lorena, JEC Cruz  
   Encontro Nacional de Inteligência Artificial e Computacional
 
