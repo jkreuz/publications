@@ -4,6 +4,11 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 ## Papers
 <!-- Google Scholar Crawler info https://scholar.google.com/intl/en/scholar/inclusion.html -->
 
+### 2026
+  - **Mixing Real and Synthetic Data in Neural Network Training: A Case Study Regarding Runway Detection** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/GDaniel2026_SCITECH.pdf?raw=true))([pdf](https://arc.aiaa.org/doi/10.2514/6.2026-1773))([dataset]())   
+  GH Daniel, JEC Cruz, MR Maximo
+  AIAA SCITECH Forum
+
 ### 2024
   - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification in CBIR** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/BSantos2024_ENIAC.pdf?raw=true))([pdf](https://doi.org/10.5753/eniac.2024.245117))([dataset](https://zenodo.org/records/14653134))   
   BLG dos Santos, AC Lorena, JEC Cruz  
