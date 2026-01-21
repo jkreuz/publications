@@ -39,7 +39,8 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 
 ## Datasets
 
+- **Mixing Real and Synthetic Data in Neural Network Training: A Case Study Regarding Runway Detection** ([dataset](https://zenodo.org/records/18328871))  
 - **Comparative Study of Feature Extraction Approaches for Maritime Vessel Identification in CBIR** ([dataset](https://zenodo.org/records/14653134))  
-- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv))  
+- **Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation** ([dataset](https://github.com/jkreuz/publications/blob/main/datasets/JCruz2023_ICCSA.csv))([dataset](https://zenodo.org/records/14974979))
 - **A comparison of Haar-like, LBP and HOG approaches to concrete and asphalt runway detection in high resolution imagery** ([dataset](https://zenodo.org/records/13892183))  
 - **Concrete and asphalt runway detection in high resolution images using LBP cascade classifier** ([dataset](https://zenodo.org/records/13892183))  
