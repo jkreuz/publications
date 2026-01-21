@@ -5,7 +5,7 @@ Researcher in Computer Vision, Remote Sensing, NLP, Time Series processing, Comp
 <!-- Google Scholar Crawler info https://scholar.google.com/intl/en/scholar/inclusion.html -->
 
 ### 2026
-  - **Mixing Real and Synthetic Data in Neural Network Training: A Case Study Regarding Runway Detection** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/GDaniel2026_SCITECH.pdf?raw=true))([pdf](https://arc.aiaa.org/doi/10.2514/6.2026-1773))([dataset]())   
+  - **Mixing Real and Synthetic Data in Neural Network Training: A Case Study Regarding Runway Detection** ([pdf](https://github.com/jkreuz/publications/blob/main/papers/GDaniel2026_SCITECH.pdf?raw=true))([pdf](https://arc.aiaa.org/doi/10.2514/6.2026-1773))([dataset](https://zenodo.org/records/18328871))   
   GH Daniel, JEC Cruz, MR Maximo  
   AIAA SCITECH Forum
 
